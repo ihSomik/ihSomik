@@ -20,8 +20,8 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 [![AtCoder](https://img.shields.io/badge/AtCoder-ihSomik-blue)](https://atcoder.jp/users/ihSomik)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-ihsomik-blue)](https://www.hackerearth.com/@ihsomik)
 [![SPOJ](https://img.shields.io/badge/SPOJ-somik-blue)](https://www.spoj.com/users/somik/)
-[![TopCoder](https://img.shields.io/badge/TopCoder-ih_somik-blue)](https://profiles.topcoder.com/ih_somik)
-[![Toph](https://img.shields.io/badge/Toph-ihSomik-blue)](https://toph.co/u/ihSomik)
+[![TopCoder](https://img.shields.io/badge/TopCoder-ihsomik-blue)](https://profiles.topcoder.com/ihsomik
+) [![Toph](https://img.shields.io/badge/Toph-ihSomik-blue)](https://toph.co/u/ihSomik)
 [![Project Euler](https://img.shields.io/badge/Project%20Euler-ihSomik-blue)](https://projecteuler.net/profile/ihSomik.png)
 
 ## Connect with Me
