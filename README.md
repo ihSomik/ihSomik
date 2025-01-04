@@ -7,7 +7,7 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 - **Technologies:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA).
 
 ## Competitive Programming Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-md_imdadul_haque_somik-blue)](https://codeforces.com/profile/md_imdadul_haque_somik)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ihSomik-blue)](https://codeforces.com/profile/ihSomik)
 [![CSES](https://img.shields.io/badge/CSES-178080-blue)](https://www.cses.fi/user/178080)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ihSomik-blue)](https://leetcode.com/u/ihSomik/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ihSomik-blue)](https://www.hackerrank.com/profile/ihSomik)
