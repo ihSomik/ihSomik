@@ -8,7 +8,7 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 
 ## Competitive Programming Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-ihSomik-blue)](https://codeforces.com/profile/ihSomik)
-[![CSES](https://img.shields.io/badge/CSES-178080-blue)](https://www.cses.fi/user/178080)
+[![CSES](https://img.shields.io/badge/CSES-somik-blue)](https://www.cses.fi/user/178080)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ihSomik-blue)](https://leetcode.com/u/ihSomik/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ihSomik-blue)](https://www.hackerrank.com/profile/ihSomik)
 [![LightOJ](https://img.shields.io/badge/LightOJ-ihsomik-blue)](https://lightoj.com/user/ihsomik)
@@ -16,7 +16,7 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 [![AOJ](https://img.shields.io/badge/AOJ-somik-blue)](https://onlinejudge.u-aizu.ac.jp/status/users/somik)
 [![Dimik](https://img.shields.io/badge/Dimik-md_imdadul_haque_somik-blue)](https://dimikoj.com/profile/d96d?md_imdadul_haque_somik)
 [![CodeChef](https://img.shields.io/badge/CodeChef-ihsomik-blue)](https://www.codechef.com/users/ihsomik)
-[![UVa](https://img.shields.io/badge/UVa-1619190-blue)](https://uhunt.onlinejudge.org/id/1619190)
+[![UVa](https://img.shields.io/badge/UVa-ihSomik-blue)](https://uhunt.onlinejudge.org/id/1619190)
 [![AtCoder](https://img.shields.io/badge/AtCoder-ihSomik-blue)](https://atcoder.jp/users/ihSomik)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-ihsomik-blue)](https://www.hackerearth.com/@ihsomik)
 [![SPOJ](https://img.shields.io/badge/SPOJ-ihSomik-blue)](https://www.spoj.com/users/ihsomik/)
