@@ -8,7 +8,7 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 
 ## Competitive Programming Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-ihSomik-blue)](https://codeforces.com/profile/ihSomik)
-[![CSES](https://img.shields.io/badge/CSES-somik-blue)](https://www.cses.fi/user/178080)
+[![CSES](https://img.shields.io/badge/CSES-ihSomik-blue)](https://www.cses.fi/user/178080)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ihSomik-blue)](https://leetcode.com/u/ihSomik/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ihSomik-blue)](https://www.hackerrank.com/profile/ihSomik)
 [![LightOJ](https://img.shields.io/badge/LightOJ-ihsomik-blue)](https://lightoj.com/user/ihsomik)
