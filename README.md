@@ -6,7 +6,8 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 - **Languages:** C, C++, Java, Python, Assembly.
 - **Technologies:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA).
 
-## Competitive Programming Profiles
+## Problem-Solving Profiles
+⭐[![StopStalk](https://img.shields.io/badge/StopStalk-ihSomik-gold)](https://www.stopstalk.com/user/profile/ihSomik)
 [![Codeforces](https://img.shields.io/badge/Codeforces-ihSomik-blue)](https://codeforces.com/profile/ihSomik)
 [![CSES](https://img.shields.io/badge/CSES-ihSomik-blue)](https://www.cses.fi/user/178080)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ihSomik-blue)](https://leetcode.com/u/ihSomik/)
@@ -19,7 +20,7 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 [![UVa](https://img.shields.io/badge/UVa-ihSomik-blue)](https://uhunt.onlinejudge.org/id/1619190)
 [![AtCoder](https://img.shields.io/badge/AtCoder-ihSomik-blue)](https://atcoder.jp/users/ihSomik)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-ihsomik-blue)](https://www.hackerearth.com/@ihsomik)
-[![SPOJ](https://img.shields.io/badge/SPOJ-ihSomik-blue)](https://www.spoj.com/users/ihsomik/)
+[![SPOJ](https://img.shields.io/badge/SPOJ-ihsomik-blue)](https://www.spoj.com/users/ihsomik/)
 [![POJ](https://img.shields.io/badge/POJ-ihSomik-blue)](http://poj.org/userstatus?user_id=ihSomik)
 [![Toph](https://img.shields.io/badge/Toph-ihSomik-blue)](https://toph.co/u/ihSomik)
 [![Project Euler](https://img.shields.io/badge/Project%20Euler-ihSomik-blue)](https://projecteuler.net/profile/ihSomik.png)
