@@ -4,7 +4,7 @@ I am currently pursuing a degree in Computer Science and Engineering (CSE) at RU
 
 ## Skills
 - **Languages:** C, C++, Java, Python, Assembly.
-- **Technologies:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA).
+- **Technologies & Concepts:** Structured Programming, Object-Oriented Programming (OOP), Data Structures, Digital Logic Design, Microprocessors and Microcontrollers, Assembly Language Programming, Embedded Systems, Algorithm Analysis and Design, Database Systems, Computer Architecture.
 
 ## Problem-Solving Profiles
 [![StopStalk](https://img.shields.io/badge/StopStalk-ihSomik-gold)](https://www.stopstalk.com/user/profile/ihSomik)
