@@ -2,6 +2,8 @@
 
 I am a **Computer Science and Engineering** student at **Rajshahi University of Engineering & Technology (RUET), Bangladesh**, focused on enhancing my problem-solving skills and expanding my expertise in machine learning and artificial intelligence.
 
+🌐 [LEARN MORE](https://ihsomik.github.io/)
+
 ---
 
 ## 💡 Skills
