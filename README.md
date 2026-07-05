@@ -1,15 +1,5 @@
-<h1 align="center">Hi, I'm Md. Imdadul Haque Somik 👋</h1>
+<h1 align="center">Hi, I'm MD. IMDADUL HAQUE SOMIK 👋</h1>
 <p align="center">I am a Computer Science & Engineering student, focused on enhancing my problem-solving skills and expanding my expertise in machine learning and artificial intelligence.</p>
-
-<p align="center">
-  <a href="https://github.com/ihSomik/ihSomik/blob/main/CV.pdf">CV</a> ·
-  <a href="mailto:imdadul.haque.somik@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/ihSomik">LinkedIn</a> ·
-  <a href="https://ihsomik.github.io/">Portfolio</a>
-</p>
-
-<h1 align="center">Hi, I'm Md. Imdadul Haque Somik 👋</h1>
-<p align="center">Computer Science & Engineering student passionate about machine learning and artificial intelligence.</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ihSomik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
